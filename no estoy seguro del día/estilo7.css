@@ -1,0 +1,59 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+}
+.fila{
+    width: 100%;
+}
+.columna{
+    height: 100%;
+    position: relative;
+    float: left;
+}
+#encabezado{
+    height: 20%;
+    background-color: red;
+}
+#cuerpo{
+    height: 80%;
+    background-color: green;
+}
+#banner{
+    width: 85%;
+    background-color: blue;
+}
+#logo{
+    width: 15%;
+    background-color: yellow;
+}
+#menú{
+    width: 20%;
+    background-color: crimson;
+}
+#contenido{
+    width: 80%;
+    background-color: aqua;
+}
+.item{
+    height: 10%;
+    border-bottom: 4px solid black;
+}
+.texto{
+    margin: 4px;
+    height: 30%;
+    width: 50%;
+    background-color: purple;
+}
+.encabezado{
+    margin: 0px;
+    height: 30%;
+    width: 50%;
+    background-color: darkgreen;
+}
+.encabezado2{
+    margin: 0px;
+    height: 30%;
+    width: 50%;
+    background-color: darkorange;
+}

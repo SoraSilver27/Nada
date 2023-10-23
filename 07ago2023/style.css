@@ -1,0 +1,33 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.box{
+    width: 250px;
+    height: 250px;
+    background-color: #888;
+}
+
+#one{
+    background-color: #f00;
+}
+
+#two{
+    background-color: #0f0;
+}
+
+#three{
+    background-color: #00f;
+}
+
+#one:hover{
+    background-color: #fff;
+}
+
+#one:active{
+    background-color: #000;
+}
+
