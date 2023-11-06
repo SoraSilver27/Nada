@@ -1,0 +1,21 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    
+    text-align: center;
+
+    background-color: #ffff00;
+    color: #0000ff;
+}
+
+.title{
+    background-color: darkorange;
+    border: 3px solid orangered;
+    
+}
+p{
+    background-color: darkorange;
+    border: 3px solid orangered;
+    color: white;
+}
